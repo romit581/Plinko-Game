@@ -37,11 +37,20 @@ This project helped me understand:
 
 📸 **Screenshots (Optional)**
 
-*(You can add a few images of your game here once uploaded.)*
+<img width="1001" height="1011" alt="Screenshot 2025-10-18 203322" src="https://github.com/user-attachments/assets/9e23be36-4966-4407-aa31-bb646f9df4f8" />
 
-📜 **License**
+<img width="994" height="1040" alt="Screenshot 2025-10-18 203344" src="https://github.com/user-attachments/assets/f3263008-6fbe-4346-a7d5-56341d4fd9f7" />
+
+<img width="998" height="1052" alt="Screenshot 2025-10-18 203356" src="https://github.com/user-attachments/assets/dd9c4dc3-fe23-4240-ab29-b1bf63259ba9" />
+
+
+
+
+
+📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
 
 
 
